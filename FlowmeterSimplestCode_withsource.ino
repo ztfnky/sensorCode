@@ -1,8 +1,4 @@
-//SimplestCode
-//with source https://www.youtube.com/watch?v=M4MipaQM14A
-
-
-int flowPin = 2; //declare pin # Question if one of my TX RX is pin 2 or 3 where else should I put my pin for the flow sensor?
+int flowPin = 2; //declare pin
 double flowRate;
 volatile int count; //count is changed in the next function
 
